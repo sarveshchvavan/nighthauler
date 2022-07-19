@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nighthauler
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on website making
+- 📫 How to reach me s7chavan@gmail.com
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/sarvesh_chavan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvesh_chavan_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
